@@ -8,6 +8,10 @@ h1{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+    transition: all linear 0.3s;
+}
+h1:hover{
+    color: palevioletred;
 }
 *{
     background: #292929;
