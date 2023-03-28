@@ -3,9 +3,9 @@ h1{
     padding: 20px 30px;
     background: white;
     display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
     border-radius: 10px;
     position:absolute;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
