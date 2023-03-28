@@ -5,6 +5,7 @@ h1{
     display: inline-block;
     border-radius: 10px;
     position:absolute;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
