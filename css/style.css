@@ -15,4 +15,5 @@ h1:hover{
 }
 *{
     background: #292929;
+    box-sizing: border-box;
 }
